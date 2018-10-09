@@ -1,6 +1,6 @@
 body {
     color: black;
-    background-color: yellow;
+    background-color: #7f802a;
     font-size: 16px;
     display: flex;
     justify-content: center;
@@ -10,7 +10,7 @@ body {
 .Glonkhor {
     display: flex;
     justify-content: center;
-    
+
 }
 
 .Glonkvert {
